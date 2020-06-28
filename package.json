@@ -1,0 +1,19 @@
+{
+  "name": "push-notification-nodejs",
+  "version": "1.0.0",
+  "description": "Push Notifications Using Node.js & Service Worker",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/mahendra0859/Push-Notifications-Using-Node.js-Service-Worker.git"
+  },
+  "author": "Mahendra AR",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mahendra0859/Push-Notifications-Using-Node.js-Service-Worker/issues"
+  },
+  "homepage": "https://github.com/mahendra0859/Push-Notifications-Using-Node.js-Service-Worker#readme"
+}
