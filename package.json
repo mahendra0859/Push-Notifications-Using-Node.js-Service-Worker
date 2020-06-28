@@ -4,7 +4,7 @@
   "description": "Push Notifications Using Node.js & Service Worker",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "nodemon index.js"
   },
   "repository": {
     "type": "git",
@@ -15,5 +15,13 @@
   "bugs": {
     "url": "https://github.com/mahendra0859/Push-Notifications-Using-Node.js-Service-Worker/issues"
   },
-  "homepage": "https://github.com/mahendra0859/Push-Notifications-Using-Node.js-Service-Worker#readme"
+  "homepage": "https://github.com/mahendra0859/Push-Notifications-Using-Node.js-Service-Worker#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "web-push": "^3.4.4"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
 }
